@@ -1,4 +1,4 @@
-# Toy Kmeans
+# PyKmeans
 
 Python(numpy)で実装した。
 
